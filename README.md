@@ -1,2 +1,0 @@
-# gycsee
-LNPM test demo
